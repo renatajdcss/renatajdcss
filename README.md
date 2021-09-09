@@ -21,12 +21,12 @@ Software developer from Toronto 👩‍💻🇨🇦🍁
 ## 🚧Current Personal Projects
 
 * WPF app to control smart switches via a REST API
-* Refactoring a HTML/CSS/Vanilla JS/JQuery website to React/SASS
+* Refactored a HTML/CSS/Vanilla JS/JQuery website to React/SASS
 
 ## 🌱What I'm Learning
 
 Here are some things I'm currently learning more about. 🤓
 
-* WPF Apps using MVVM pattern (C#)
+* Spring Boot Microservices
 * Design Patterns (OOP)
 * Unit Testing
